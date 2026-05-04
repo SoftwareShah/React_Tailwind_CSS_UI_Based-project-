@@ -121,6 +121,18 @@ npm run dev
 
 Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
+
+### 🎬 visuals
+<img width="400" height="210" alt="Videos_compressed" src="https://github.com/user-attachments/assets/883e295c-1928-4442-a5e9-36e1f34f44d5" />
+
+<img width="630" height="496" alt="image" src="https://github.com/user-attachments/assets/f47d6045-315a-4dcb-a1d9-216419c4adb5" />
+
+<img width="944" height="494" alt="image" src="https://github.com/user-attachments/assets/751a4793-df2b-445e-aa75-2be3236b418f" />
+
+
+
+
+
 ---
 
 ## 📚 What I Learned
@@ -133,6 +145,8 @@ This project helped me understand how to:
 - Create a smooth infinite scroll animation using pure CSS
 
 ---
+
+
 
 ## 🙋‍♂️ Author
 
