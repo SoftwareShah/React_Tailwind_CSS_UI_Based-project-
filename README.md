@@ -1,6 +1,6 @@
 # 🏦 Digital Banking Platform UI
 
-A beginner-level **React + Tailwind CSS** UI project built during my learning phase at **Apna College**.  
+A beginner-level **React + Tailwind CSS** UI project built during my learning phase.  
 This project focuses on practising core React and Tailwind concepts by building a real-looking interface.
 
 ---
@@ -150,6 +150,6 @@ This project helped me understand how to:
 
 ## 🙋‍♂️ Author
 
-Built with 💙 during the **Apna College React Learning Phase**
+Built with 💙 during the **React Learning Phase**
 
 > *This is a learning project — not a production application.*
